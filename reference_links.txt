@@ -1,0 +1,5 @@
+Dataset - https://catalog.data.gov/dataset/crime-data-from-2020-to-present.
+
+Attribute details - https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
+
+Exploratory details  - https://www.kaggle.com/code/jsmwoolf/los-angeles-crime-analysis/notebook
